@@ -1,0 +1,53 @@
+"title","pre_conditions","section_name","section_desc","steps","expected_result","references"
+"
+
+<p>This is a business goal for the use-case.</p>
+
+","
+
+
+
+|||: PRECONDITION|: ACTION
+
+|| Precondition 1| Action 1
+
+|| Precondition 2| Action 2
+
+|| Precondition 3| Action 3
+
+
+
+
+
+","[TESTRAIL-1] This is a bug ticket which need to be created on TestRail","https://vamsid.atlassian.net/browse/TESTRAIL-1","
+
+
+
+|||: #|: STEPS|: Expected Result
+
+|| 1| Step 1| Expected Result 1
+
+|| 2| Step 2| Expected Result 2
+
+|| 3| Step 3| Expected Result 3
+
+|| 4| Step 4| Expected Result 4
+
+|| 5| Step 5| Expected Result 5
+
+|| 6| Step 6| Expected Result 6
+
+|| 7| Step 7| Expected Result 7
+
+|| 8| Step 8| Expected Result 8
+
+|| 9| Step 9| Expected Result 9
+
+
+
+
+","
+
+<p>This is a business goal for the use-case.</p>
+
+","TESTRAIL-1"
